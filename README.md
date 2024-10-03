@@ -1,2 +1,3 @@
 # positive-integers
 **Description:** The Positive Integers program prompts users to enter a series of positive integers, calculates their sum, finds the maximum and minimum values, and counts how many numbers were entered, ensuring valid input throughout.
+The artifact I chose is my Positive Integers program, which allows users to input a series of numbers while ensuring that they are all positive. The program effectively handles user inputs, performs calculations, and provides feedback in an organized manner. It demonstrates my understanding of basic data handling, loops, conditionals, and functions in Python.
